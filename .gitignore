@@ -1,0 +1,6 @@
+.env
+files/*
+.idea/*
+*.db
+*.sql
+test_aws
